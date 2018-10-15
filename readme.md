@@ -6,4 +6,10 @@
 A boilerplate for creating node modules.
 
 
-#### Getting Started:
+#### Getting Started
+
+Run the following in your directory:
+
+```
+$ curl -fsSL https://github.com/smrubin/node-module-boilerplate/archive/master.tar.gz | tar -xz --strip-components=2 node-module-boilerplate-master/boilerplate
+```
